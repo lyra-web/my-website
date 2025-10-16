@@ -1,4 +1,4 @@
-ody {
+body {
   margin: 0;
   padding: 0;
   font-family: 'Inter', 'Roboto', 'Open Sans', sans-serif;
@@ -46,11 +46,13 @@ nav a:hover {
 
 .gender-quality {
   background: 
-    linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
-    url("gen.jpg") no-repeat center center/cover;
+  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
+  url("gen.jpg") no-repeat center center/cover;
+  height: 300px;
   padding: 100px 20px;
   text-align: center;
   color: #fff;
+  background-attachment: fixed;
 }
 .about-gender {
     display: flex;
@@ -122,3 +124,4 @@ nav a:hover {
   line-height: 1.6;
   color: #333;
 }
+

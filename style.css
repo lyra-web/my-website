@@ -53,7 +53,7 @@ nav a:hover {
   padding: 100px 20px;
   text-align: center;
   color: #fff;
-  background-attachment: fixed;
+  
 }
 .about-gender {
     display: flex;
@@ -125,6 +125,7 @@ nav a:hover {
   line-height: 1.6;
   color: #333;
 }
+
 
 
 

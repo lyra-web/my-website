@@ -1,6 +1,10 @@
 * {
-  font-family: Arial, sans-serif;
+  body {
   margin: 0;
+  font-family: 'Inter', 'Roboto', 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #f4f4f4;
   box-sizing: border-box;
 }
 header {
@@ -126,6 +130,7 @@ nav a:hover {
   line-height: 1.6;
   color: #333;
 }
+
 
 
 

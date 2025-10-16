@@ -48,7 +48,6 @@ nav a:hover {
   background: 
   linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
   url("gen.jpg") no-repeat center center/cover;
-  height: auto;
   width: auto;
   padding: 100px 20px;
   text-align: center;
@@ -128,5 +127,6 @@ nav a:hover {
   line-height: 1.6;
   color: #333;
 }
+
 
 

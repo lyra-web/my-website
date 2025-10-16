@@ -71,7 +71,6 @@ nav a:hover {
   gap: 20px;
   padding: 20px;
   grid-template-columns: 1fr 1fr; /* Two columns on large screens */
-  justify-content: center;
 }
 
 .grid-item1 {
@@ -127,6 +126,7 @@ nav a:hover {
   line-height: 1.6;
   color: #333;
 }
+
 
 
 

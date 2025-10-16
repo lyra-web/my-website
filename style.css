@@ -1,4 +1,4 @@
-body {
+ody {
   margin: 0;
   padding: 0;
   font-family: 'Inter', 'Roboto', 'Open Sans', sans-serif;
@@ -45,11 +45,12 @@ nav a:hover {
 }
 
 .gender-quality {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), 
-              url("gen.jpg") no-repeat center center/cover;
-  padding: 200px;
+  background: 
+    linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
+    url("gen.jpg") no-repeat center center/cover;
+  padding: 100px 20px;
   text-align: center;
-  color: #333;
+  color: #fff;
 }
 .about-gender {
     display: flex;

@@ -67,9 +67,9 @@ nav a:hover {
 }
 
 .grid-container1 {
-  display: grid;
-  max-width: 800px;
   width: 100%;
+  max-width:100%
+  display: grid;
   gap: 20px;
   padding: 30px;
   grid-template-columns: 2fr 2fr; /* default for larger screens */
@@ -127,6 +127,7 @@ nav a:hover {
   line-height: 1.6;
   color: #333;
 }
+
 
 
 

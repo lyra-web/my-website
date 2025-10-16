@@ -68,7 +68,6 @@ nav a:hover {
 
 .grid-container1 {
   display: grid;
-  max-width: 600px;
   height: auto;
   width: auto;
   grid-template-columns: 1fr 1fr;
@@ -128,6 +127,7 @@ nav a:hover {
   line-height: 1.6;
   color: #333;
 }
+
 
 
 
